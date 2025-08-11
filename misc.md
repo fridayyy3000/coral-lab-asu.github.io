@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Misc
-permalink: /misc
+permalink: /misc/
 ---
 
 <section class="misc-page">
