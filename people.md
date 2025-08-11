@@ -1,6 +1,6 @@
 ---
 title: People
-permalink: /people_old/
+permalink: /people/
 ---
 
 
